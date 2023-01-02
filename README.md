@@ -9,7 +9,7 @@
   
 #### 介绍❤❤❤❤❤
 - 用于`Yunzai-Bot`V3_`喵喵插件`（miao-plugin）的角色面板webp格式的图库<br>
-由于占用的原因，本仓库只包风元素角色
+由于占用的原因，本仓库只包水元素角色
 > 其他角色的请移步我的其他仓库<br>
 ☞[水元素](https://github.com/lc-hongdou/shui)
 ☞[火元素](https://github.com/lc-hongdou/huo)
